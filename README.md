@@ -1,4 +1,4 @@
-# Virtual Thread Executor
+# Virtual Thread Wrapper
 
 This project provides a custom wrapper/library built on top of Java's virtual threads, designed to maximize concurrency while maintaining context in multi-threaded environments.
 
